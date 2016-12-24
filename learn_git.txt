@@ -1,2 +1,2 @@
-git is free sofware
+Git is a free sofware
 Creating a new branch is quick AND simple.
